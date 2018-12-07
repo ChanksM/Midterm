@@ -1,0 +1,184 @@
+
+/*header*/
+header{
+	margin: auto;
+	height: 100px;
+	margin-top: 69.77px;
+}
+.wrapper{
+	margin: 0 auto;
+	width: 1200px;
+}
+.container{
+	display: flex;
+	align-items:  center;
+}
+.chil-a{
+	color: #626262;
+	margin-left:131.375px;
+}
+.logo{
+	color: #000;
+	font-size: 25px;
+}
+.text-upper{
+	text-transform: uppercase;
+}
+.justify-content{
+	justify-content: space-between;
+}
+.nav{
+	display: flex;
+}
+.photodiary{
+	color: #b4ad9e;
+	margin-bottom: 30.55px;
+	font-size: 14.67px;
+}
+
+/*header*/
+
+/*middle*/
+.wrapper2{
+	margin-top: 98.21px;
+	padding:75px;
+}
+.title1{
+	font-size: 27.45px;
+	margin-bottom: 37.33px;
+	color: #626262;
+}
+.text1{
+	color: #6c6c6c;
+	margin-bottom: 76.55px;
+}
+.comment1{
+	color: #b8b2a4;
+	font-size: 14.67px;
+	margin-bottom: 134.42px;
+}
+.margin-for-imgs{
+	width: 420px;
+	margin-bottom: 31.21px;
+}
+.section-div{
+	display: flex;
+	justify-content: space-between;
+}
+.section-div-h2{
+	color: #bdb7aa;
+	margin-bottom: 27.35px;
+}
+.section-div-h1{
+	font-size: 32px;
+	color: #626262;
+	margin-bottom: 35px;
+}
+.section-div-p{
+	width: 420px;
+	color: #626262;
+}
+.section{
+	margin-bottom: 134.5px;
+}
+.section2{
+	margin-bottom: 125px;
+}
+.login{
+	height: 287px;
+	background-color: #F0F0F0;
+	margin-bottom: 103px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.login-border{
+	display: flex;
+	flex-direction: column; 
+}
+.login-title{
+	font-size: 33px;
+	margin-bottom: 85px;
+	color: #333333;
+}
+.line{
+	background-color: #000;
+	width: 400px;
+	height: 1px;
+}
+.login-arrow img{
+	width: 32px;
+}
+.login-text{
+	font-size: 14px;
+	color: #6b6b6b;
+}
+.text-arrow{
+	display: flex;
+	justify-content: space-between;
+}
+.login-button{
+	width: 400px;
+}
+button{
+	height: 60px;
+	width: 163px
+}
+.butto{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 300px;
+}
+
+
+
+/*middle*/
+
+/*footer*/
+footer{
+	height: 100px;
+	background-color: #F0F0F0;
+	margin-bottom: 3px;
+	padding: 47px 54px 0 71px;
+}
+.foot{
+	display: flex;
+	justify-content: space-between;
+}
+.foot-text{
+	display: flex;
+}
+.foot-img{
+	display: flex;
+}
+.foot-img img{
+	height: 14px;
+	margin-right: 17px;
+}
+
+.foot-img-p{
+	margin-right: 25px;
+}
+.foot-img-p a{
+	color: #000;
+}
+.foot-a{
+	margin-right: 28px;
+	color: #000;
+}
+
+/*footer*/
+
+/*font*/
+.display-regular-font{
+	font-family: 'Playfair Display', serif;
+}
+.incon-font{
+	font-family: 'Inconsolata', monospace;
+}
+.ubuntu-font{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+/*font*/
